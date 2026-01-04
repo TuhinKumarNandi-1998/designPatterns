@@ -1,4 +1,8 @@
-package Factory.FactoryMethod;
+package Factory.FactoryMethod.creator;
+
+import Factory.FactoryMethod.product.Airplane;
+import Factory.FactoryMethod.product.Transport;
+import Factory.FactoryMethod.product.Truck;
 
 public class ExpressLogistics extends Logistics {
     private boolean isPriority;

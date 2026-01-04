@@ -1,4 +1,9 @@
-package Factory.SimpleFactory;
+package Factory.SimpleFactory.factory;
+
+import Factory.SimpleFactory.product.Circle;
+import Factory.SimpleFactory.product.Rectangle;
+import Factory.SimpleFactory.product.Shape;
+import Factory.SimpleFactory.product.Triangle;
 
 public class ShapeFactory {
 

@@ -1,5 +1,8 @@
 package Factory.SimpleFactory;
 
+import Factory.SimpleFactory.factory.ShapeFactory;
+import Factory.SimpleFactory.product.Shape;
+
 public class SimpleFactoryClient {
 
     /**

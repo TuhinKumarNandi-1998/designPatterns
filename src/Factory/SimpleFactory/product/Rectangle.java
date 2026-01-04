@@ -1,4 +1,4 @@
-package Factory.SimpleFactory;
+package Factory.SimpleFactory.product;
 
 public class Rectangle implements Shape {
     private double width, height;

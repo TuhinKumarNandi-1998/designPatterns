@@ -1,4 +1,4 @@
-package Factory.SimpleFactory;
+package Factory.SimpleFactory.product;
 
 public class Triangle implements Shape {
     private double base, height;

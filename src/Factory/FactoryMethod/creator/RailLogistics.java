@@ -1,4 +1,7 @@
-package Factory.FactoryMethod;
+package Factory.FactoryMethod.creator;
+
+import Factory.FactoryMethod.product.Train;
+import Factory.FactoryMethod.product.Transport;
 
 public class RailLogistics extends Logistics {
     @Override

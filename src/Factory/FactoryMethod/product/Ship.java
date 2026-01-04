@@ -1,4 +1,4 @@
-package Factory.FactoryMethod;
+package Factory.FactoryMethod.product;
 
 public class Ship implements Transport {
     @Override

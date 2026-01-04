@@ -1,4 +1,7 @@
-package Factory.FactoryMethod;
+package Factory.FactoryMethod.creator;
+
+import Factory.FactoryMethod.product.Airplane;
+import Factory.FactoryMethod.product.Transport;
 
 public class AirLogistics extends Logistics {
     @Override

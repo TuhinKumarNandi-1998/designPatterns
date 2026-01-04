@@ -1,6 +1,8 @@
-package Factory.FactoryMethod;
+package Factory.FactoryMethod.creator;
 
 // Create the Creator abstract class with factory method
+
+import Factory.FactoryMethod.product.Transport;
 
 public abstract class Logistics {
     // This is the Factory Method - subclasses will override this

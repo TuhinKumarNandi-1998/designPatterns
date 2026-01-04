@@ -1,6 +1,8 @@
-package Factory.FactoryMethod;
+package Factory.FactoryMethod.util;
 
 // Configuration class to choose logistics type
+
+import Factory.FactoryMethod.creator.*;
 
 public class LogisticsConfigurator {
     public static Logistics getLogistics(String type) {

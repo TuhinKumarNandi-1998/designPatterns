@@ -1,5 +1,8 @@
 package Factory.FactoryMethod;
 
+import Factory.FactoryMethod.creator.*;
+import Factory.FactoryMethod.util.LogisticsConfigurator;
+
 public class FactoryMethodClient {
 
     /**

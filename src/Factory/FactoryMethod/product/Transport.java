@@ -1,4 +1,4 @@
-package Factory.FactoryMethod;
+package Factory.FactoryMethod.product;
 
 // Define the Product interface
 

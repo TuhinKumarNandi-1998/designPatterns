@@ -1,4 +1,4 @@
-package Factory.SimpleFactory;
+package Factory.SimpleFactory.product;
 
 public interface Shape {
     void draw();
