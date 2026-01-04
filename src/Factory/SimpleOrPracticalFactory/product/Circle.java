@@ -1,4 +1,4 @@
-package Factory.SimpleFactory.product;
+package Factory.SimpleOrPracticalFactory.product;
 
 public class Circle implements Shape {
     private double radius;

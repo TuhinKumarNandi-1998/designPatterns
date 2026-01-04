@@ -1,7 +1,7 @@
-package Factory.SimpleFactory;
+package Factory.SimpleOrPracticalFactory;
 
-import Factory.SimpleFactory.factory.ShapeFactory;
-import Factory.SimpleFactory.product.Shape;
+import Factory.SimpleOrPracticalFactory.factory.ShapeFactory;
+import Factory.SimpleOrPracticalFactory.product.Shape;
 
 public class SimpleFactoryClient {
 
